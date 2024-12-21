@@ -27,7 +27,6 @@ Este projeto utiliza **Machine Learning** para prever o valor de imóveis com ba
 ```bash
 git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
 cd nome-do-repositorio
-
 2. Instale as dependências
 Para instalar as dependências necessárias, execute o seguinte comando:
 
